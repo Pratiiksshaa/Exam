@@ -1,3 +1,6 @@
-class Demo1
-
-{pratiksha}
+class Demo
+{
+   psvm(){
+	   sop("git Demooooo");
+   }
+  }
