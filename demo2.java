@@ -1,6 +1,6 @@
 class Demo
 {
    psvm(){
-	   sop("git Demooooo");
+	   sop("Hello git");
    }
   }
